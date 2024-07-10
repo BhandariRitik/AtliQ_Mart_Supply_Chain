@@ -20,6 +20,7 @@ The Supply Chain team decided to use a standard approach to measure the service 
 ![fmcg data model](https://github.com/BhandariRitik/AtliQ_Mart_Supply_Chain/assets/175146421/38c8e147-8541-4438-af17-772ebe7083c4)
 
 ### Dashboard
-
-![Screenshot (62)](https://github.com/BhandariRitik/AtliQ_Mart_Supply_Chain/assets/175146421/be1e3efb-f0bb-42f7-82f0-33d98bcc64c9)
+<div align="center">
+  <img src = "https://github.com/BhandariRitik/AtliQ_Mart_Supply_Chain/assets/175146421/be1e3efb-f0bb-42f7-82f0-33d98bcc64c9">
+</div>
 
