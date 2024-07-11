@@ -24,3 +24,11 @@ The Supply Chain team decided to use a standard approach to measure the service 
   <img src = "https://github.com/BhandariRitik/AtliQ_Mart_Supply_Chain/assets/175146421/be1e3efb-f0bb-42f7-82f0-33d98bcc64c9">
 </div>
 
+### Insights
+- All the metrics are way behind the targets.
+- On an average products are delivered late by 1.69 days.
+- Out of 32K orders 13K are delivered late.
+- Coolblue, Lotus Mart, Acclaimed Stores have the lowest OTIF % (On time in full) and OT % (On time) despite
+  having the highest orders.
+- Milk, Curd and Butter have the highest quantity ordered.
+- Curd, Ghee, Butter are the most delayed deliver products.
