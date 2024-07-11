@@ -21,8 +21,9 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 ### Dashboard
 <div align="center">
-  <img src = "https://github.com/BhandariRitik/AtliQ_Mart_Supply_Chain/assets/175146421/be1e3efb-f0bb-42f7-82f0-33d98bcc64c9">
+  <img src = "https://github.com/BhandariRitik/AtliQ_Mart_Supply_Chain/assets/175146421/bea719a3-9a80-46d0-be50-890dab6e83a9">
 </div>
+
 
 ### Insights
 - All the metrics are way behind the targets.
