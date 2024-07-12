@@ -1,5 +1,4 @@
 # AtliQ Supply Chain Analysis - Power BI
-
 ##### As part of the October month codebaiscs resume challenge, I have performed data analysis and designed a dashboard in Power BI
 - Challenge details - [Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 - Interactive Dashboard - [Link](https://app.powerbi.com/reportEmbed?reportId=58fdb25d-107f-4749-bb34-be6758bebad7&autoAuth=true&ctid=6fe72367-5550-451c-bc07-f68f54a96e01)
