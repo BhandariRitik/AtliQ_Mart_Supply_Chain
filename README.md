@@ -25,9 +25,9 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 
 ### <ins> Insights </ins>
-- All the metrics are way behind the targets.
-- On an average products are delivered late by 1.69 days.
-- Out of 32K orders 13K are delivered late.
+- Generated most revenue in the month of May 573 million.
+- Mumbai contributed most to the renveue among citties 669 million.
+- Among rooms Elite contributed most to the revenue
 - Coolblue, Lotus Mart, Acclaimed Stores have the lowest OTIF % (On time in full) and OT % (On time) despite
   having the highest orders.
 - Milk, Curd and Butter have the highest quantity ordered.
